@@ -1,3 +1,5 @@
+![Excel Banner](![Excel Banner](https://github.com/tusharjkhapre/Vrinda-Store-Dataset-Analysis/blob/main/banner.jpg) <!-- Replace with an actual Excel banner image URL -->) 
+
 # Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## **Project Objective**
